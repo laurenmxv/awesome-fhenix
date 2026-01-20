@@ -1,0 +1,26 @@
+{
+  "name": "awesome-fhenix",
+  "version": "1.0.0",
+  "description": "A curated list of amazing Fhenix and FHE resources",
+  "scripts": {
+    "lint": "awesome-lint",
+    "test": "npm run lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fhenixprotocol/awesome-fhenix.git"
+  },
+  "keywords": [
+    "fhenix",
+    "fhe",
+    "fully-homomorphic-encryption",
+    "blockchain",
+    "privacy",
+    "awesome-list"
+  ],
+  "license": "CC0-1.0"
+}
+

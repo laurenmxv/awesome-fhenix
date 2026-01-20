@@ -1,0 +1,8 @@
+rules:
+  - name: Check all links
+    severity: error
+    exclude:
+      - "^https://github.com/[^/]+/[^/]+$"  # GitHub repos can be private
+    timeout: 30
+    user_agent: "awesome-fhenix-link-checker"
+

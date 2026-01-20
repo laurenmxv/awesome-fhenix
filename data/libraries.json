@@ -1,0 +1,19 @@
+{
+  "core": [
+    {
+      "name": "cofhe-contracts",
+      "url": "https://github.com/FhenixProtocol/cofhe-contracts",
+      "description": "Solidity FHE library for performing operations on encrypted data in smart contracts",
+      "language": "Solidity",
+      "stars": 0
+    },
+    {
+      "name": "cofhejs",
+      "url": "https://github.com/FhenixProtocol/cofhejs",
+      "description": "JavaScript/TypeScript SDK for client-side encryption, permit management, and decryption",
+      "language": "TypeScript",
+      "stars": 0
+    }
+  ]
+}
+

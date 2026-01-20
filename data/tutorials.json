@@ -1,0 +1,39 @@
+{
+  "beginner": [
+    {
+      "name": "Quick Start Guide",
+      "url": "https://docs.fhenix.io/fhe-library/introduction/quick-start",
+      "description": "Set up your development environment and build your first FHE contract"
+    },
+    {
+      "name": "Your First FHE Contract",
+      "url": "https://docs.fhenix.io/tutorials/your-first-fhe-contract",
+      "description": "Beginner tutorial building an encrypted counter"
+    }
+  ],
+  "intermediate": [
+    {
+      "name": "Adding FHE to Existing Contracts",
+      "url": "https://docs.fhenix.io/tutorials/adding-fhe-to-existing-contract",
+      "description": "Migrate traditional contracts to use FHE"
+    },
+    {
+      "name": "ACL Usage Examples",
+      "url": "https://docs.fhenix.io/tutorials/acl-usage-examples",
+      "description": "Implement access control for encrypted data"
+    }
+  ],
+  "advanced": [
+    {
+      "name": "CoFHE Deep Dive",
+      "url": "https://docs.fhenix.io/deep-dive/cofhe-components/overview",
+      "description": "Understanding the CoFHE architecture"
+    },
+    {
+      "name": "Gas Optimization",
+      "url": "https://docs.fhenix.io/fhe-library/core-concepts/gas-and-benchmarks",
+      "description": "Best practices for efficient FHE operations"
+    }
+  ]
+}
+
