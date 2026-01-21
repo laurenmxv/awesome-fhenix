@@ -6,7 +6,7 @@
 
 > A curated list of amazing Fully Homomorphic Encryption (FHE) resources, tools, and projects for building privacy-preserving applications on Fhenix.
 
-[Fhenix](https://www.fhenix.io/) enables developers to build confidential smart contracts using Fully Homomorphic Encryption (FHE), allowing computations on encrypted data without ever revealing it.
+[Fhenix](https://www.fhenix.io/) An R&D-driven Ethereum infrastructure company delivering a full-stack confidential compute tooling suite. Cofhe, an FHE coprocessor enables developers to build confidential smart contracts using Fully Homomorphic Encryption (FHE), allowing computations on encrypted data without ever revealing it.
 
 ## 🚀 Quick Start
 - **New to FHE?** Start with [FHE & Cryptography Fundamentals](#fhe--cryptography-fundamentals)
