@@ -47,7 +47,7 @@ Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum
   - [Alchemy Sepolia](https://www.alchemy.com/faucets/ethereum-sepolia) - Get 0.5 ETH 
   - [Testnet Help Sepolia](https://testnet.help/en/ethfaucet/sepolia) - Get 0.0001 ETH 
   - [Google Cloud Sepolia](https://cloud.google.com/application/web3/faucet/ethereum/sepolia) - Get 0.05 ETH
-- Bridges Testnet
+#### Bridges Testnet
   - [Superchain](https://superbridge.app/base-sepolia) - A web interface for bridging assets across Superchain-based testnet networks such as Base Sepolia
   - [Arbitrum Bridge](https://portal.arbitrum.io/bridge) - The official bridge for transferring assets between Ethereum and Arbitrum networks
 ### GitHub
