@@ -39,11 +39,11 @@
 Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum Sepolia**.
 
 #### Faucets
-- Base Sepolia Faucet- Base testnet tokens
+- Base Sepolia Faucet - Base testnet tokens
   -  [Alchemy Base Sepolia](https://www.alchemy.com/faucets/base-sepolia) - Get 0.1 ETH
-- Arbitrum Sepolia Faucet- Arbitrum testnet tokens
+- Arbitrum Sepolia Faucet - Arbitrum testnet tokens
   - [Alchemy Arbitrum Sepolia](https://www.alchemy.com/faucets/arbitrum-sepolia) - Get 0.1 ETH 
-- Ethereum Sepolia Faucet- Ethereum Sepolia testnet tokens
+- Ethereum Sepolia Faucet - Ethereum Sepolia testnet tokens
   - [Alchemy Sepolia](https://www.alchemy.com/faucets/ethereum-sepolia) - Get 0.5 ETH 
   - [Testnet Help Sepolia](https://testnet.help/en/ethfaucet/sepolia) - Get 0.0001 ETH 
   - [Google Cloud Sepolia](https://cloud.google.com/application/web3/faucet/ethereum/sepolia) - Get 0.05 ETH
