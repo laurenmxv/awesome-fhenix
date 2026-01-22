@@ -76,6 +76,9 @@ Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum
 ### FHE & Cryptography Fundamentals
 *Foundational resources for understanding Fully Homomorphic Encryption and cryptographic concepts.*
 
+- [Crypto 101](https://www.crypto101.io/) - An introductory book that explains fundamental cryptographic concepts in a clear and accessible way
+- [Fully Homomorphic Encryption Textbook](https://fhetextbook.github.io/) - An open textbook providing a comprehensive introduction to fully homomorphic encryption, including mathematical foundations and constructions
+- [Lattices in Cryptography Lecture Notes](https://github.com/cpeikert/LatticesInCryptography) - Graduate-level lecture notes from Chris Peikert’s seminar course covering lattice-based cryptography
 - [Theory of Cryptography Lecture Notes](https://github.com/cpeikert/TheoryOfCryptography) - Lecture notes from Chris Peikert's graduate-level Theory of Cryptography course covering foundational cryptographic concepts
 
 ### Getting Started
