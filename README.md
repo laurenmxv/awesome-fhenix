@@ -38,18 +38,19 @@
 ### Network Resources
 Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum Sepolia**.
 
-#### Faucets
-- Base Sepolia Faucet - Base testnet tokens
-  -  [Alchemy Base Sepolia](https://www.alchemy.com/faucets/base-sepolia) - Get 0.1 ETH
-- Arbitrum Sepolia Faucet - Arbitrum testnet tokens
-  - [Alchemy Arbitrum Sepolia](https://www.alchemy.com/faucets/arbitrum-sepolia) - Get 0.1 ETH 
-- Ethereum Sepolia Faucet - Ethereum Sepolia testnet tokens
-  - [Alchemy Sepolia](https://www.alchemy.com/faucets/ethereum-sepolia) - Get 0.5 ETH 
-  - [Testnet Help Sepolia](https://testnet.help/en/ethfaucet/sepolia) - Get 0.0001 ETH 
-  - [Google Cloud Sepolia](https://cloud.google.com/application/web3/faucet/ethereum/sepolia) - Get 0.05 ETH
 #### Bridges Testnet
-  - [Superchain](https://superbridge.app/base-sepolia) - A web interface for bridging assets across Superchain-based testnet networks such as Base Sepolia
   - [Arbitrum Bridge](https://portal.arbitrum.io/bridge) - The official bridge for transferring assets between Ethereum and Arbitrum networks
+  - [Superchain](https://superbridge.app/base-sepolia) - A web interface for bridging assets across Superchain-based testnet networks such as Base Sepolia
+#### Faucets
+- Arbitrum Sepolia Faucet - Arbitrum testnet tokens
+  - [Alchemy Arbitrum Sepolia](https://www.alchemy.com/faucets/arbitrum-sepolia) - Get 0.1 ETH
+- Base Sepolia Faucet - Base testnet tokens
+  - [Alchemy Base Sepolia](https://www.alchemy.com/faucets/base-sepolia) - Get 0.1 ETH
+- Ethereum Sepolia Faucet - Ethereum Sepolia testnet tokens
+  - [Alchemy Sepolia](https://www.alchemy.com/faucets/ethereum-sepolia) - Get 0.5 ETH
+  - [Google Cloud Sepolia](https://cloud.google.com/application/web3/faucet/ethereum/sepolia) - Get 0.05 ETH
+  - [Testnet Help Sepolia](https://testnet.help/en/ethfaucet/sepolia) - Get 0.0001 ETH
+
 ### GitHub
 - [FhenixProtocol Organization](https://github.com/fhenixprotocol/) - Official GitHub organization
 - [cofhe-contracts](https://github.com/FhenixProtocol/cofhe-contracts) - Solidity FHE library for smart contracts
