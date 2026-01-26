@@ -145,7 +145,7 @@ Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum
 *Academic papers and technical publications related to FHE and Fhenix.*
 
 ### Technical Papers
-- [DBFV White Paper](https://eprint.iacr.org/2025/2321) - Distributed Bootstrapping for FHE in Verifiable Decryption
+- [DBFV White Paper](https://eprint.iacr.org/2025/2321) - dBFV White Paper - Decomposed BFV - A Novel High Precision Exact FHE scheme.
 - [Threshold Decryption Network White Paper](https://eprint.iacr.org/2025/1781) - Decentralized threshold decryption protocol for FHE
 
 ### Articles & Analysis
