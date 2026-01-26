@@ -38,10 +38,18 @@
 ### Network Resources
 Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum Sepolia**.
 
+#### Bridges Testnet
+  - [Arbitrum Bridge](https://portal.arbitrum.io/bridge) - The official bridge for transferring assets between Ethereum and Arbitrum networks
+  - [Superchain](https://superbridge.app/base-sepolia) - A web interface for bridging assets across Superchain-based testnet networks such as Base Sepolia
 #### Faucets
-- [Base Sepolia Faucet](https://www.coinbase.com/faucets/base-ethereum-sepolia-faucet) - Base testnet tokens
-- [Arbitrum Sepolia Faucet](https://faucet.quicknode.com/arbitrum/sepolia) - Arbitrum testnet tokens
-- [Ethereum Sepolia Faucet](https://sepoliafaucet.com/) - Ethereum Sepolia testnet tokens
+- Arbitrum Sepolia Faucet - Arbitrum testnet tokens
+  - [Alchemy Arbitrum Sepolia](https://www.alchemy.com/faucets/arbitrum-sepolia) - Get 0.1 ETH
+- Base Sepolia Faucet - Base testnet tokens
+  - [Alchemy Base Sepolia](https://www.alchemy.com/faucets/base-sepolia) - Get 0.1 ETH
+- Ethereum Sepolia Faucet - Ethereum Sepolia testnet tokens
+  - [Alchemy Sepolia](https://www.alchemy.com/faucets/ethereum-sepolia) - Get 0.5 ETH
+  - [Google Cloud Sepolia](https://cloud.google.com/application/web3/faucet/ethereum/sepolia) - Get 0.05 ETH
+  - [Testnet Help Sepolia](https://testnet.help/en/ethfaucet/sepolia) - Get 0.0001 ETH
 
 ### GitHub
 - [FhenixProtocol Organization](https://github.com/fhenixprotocol/) - Official GitHub organization
@@ -76,6 +84,9 @@ Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum
 ### FHE & Cryptography Fundamentals
 *Foundational resources for understanding Fully Homomorphic Encryption and cryptographic concepts.*
 
+- [Crypto 101](https://www.crypto101.io/) - An introductory book that explains fundamental cryptographic concepts in a clear and accessible way
+- [Fully Homomorphic Encryption Textbook](https://fhetextbook.github.io/) - An open textbook providing a comprehensive introduction to fully homomorphic encryption, including mathematical foundations and constructions
+- [Lattices in Cryptography Lecture Notes](https://github.com/cpeikert/LatticesInCryptography) - Graduate-level lecture notes from Chris Peikert’s seminar course covering lattice-based cryptography
 - [Theory of Cryptography Lecture Notes](https://github.com/cpeikert/TheoryOfCryptography) - Lecture notes from Chris Peikert's graduate-level Theory of Cryptography course covering foundational cryptographic concepts
 
 ### Getting Started
