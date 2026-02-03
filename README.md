@@ -80,6 +80,7 @@ Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum
 ---
 
 ## 📖 Learning Resources
+n- **[Universal FHE Developer Guide for Web3 Privacy](https://github.com/dolepee/universal-fhe-guide)** - Comprehensive cross-platform FHE development guide covering Inco, Fhenix, and beyond. Includes practical tutorials, comparative analysis, and real-world deployment examples for building confidential smart contracts across multiple FHE ecosystems.
 
 ### FHE & Cryptography Fundamentals
 *Foundational resources for understanding Fully Homomorphic Encryption and cryptographic concepts.*
