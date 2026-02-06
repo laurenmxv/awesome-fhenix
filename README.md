@@ -80,7 +80,7 @@ Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum
 ---
 
 ## 📖 Learning Resources
-n- **[Universal FHE Developer Guide for Web3 Privacy](https://github.com/dolepee/universal-fhe-guide)** - Comprehensive cross-platform FHE development guide covering Inco, Fhenix, and beyond. Includes practical tutorials, comparative analysis, and real-world deployment examples for building confidential smart contracts across multiple FHE ecosystems.
+- **[The Complete FHE Developer Guide](https://github.com/dolepee/universal-fhe-guide)** - Cross-platform guide to building private smart contracts on Inco Lightning and Fhenix CoFHE. Covers FHE fundamentals, side-by-side API comparison, step-by-step tutorials with verified testnet deployments, and best practices for encrypted token development.
 
 ### FHE & Cryptography Fundamentals
 *Foundational resources for understanding Fully Homomorphic Encryption and cryptographic concepts.*
